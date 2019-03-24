@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "backend": {
+    "url": ""
+  },
+  "frontend": {
+    "url": ""
+  },
+  "auth": {
+    "publicKey": ""
+  }
+}

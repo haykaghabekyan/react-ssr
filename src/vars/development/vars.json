@@ -1,0 +1,12 @@
+{
+  "title": "",
+  "backend": {
+    "url": ""
+  },
+  "frontend": {
+    "url": "http://localhost:8000"
+  },
+  "auth": {
+    "publicKey": ""
+  }
+}
